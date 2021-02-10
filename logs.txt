@@ -1,0 +1,13 @@
+host=safekiddo.com remote_addr=134.21.127.86 request="GET
+/v4/customer?access_token=lol HTTP/1.1" status=200 bytes_sent=813
+user_agent="Safekiddo/1.18.2 CFNetwork/974.1 Darwin/18.0.0 (x86_64)"
+request_length=385 request_time=0.078 upstream_time=0.078
+request_id=47f01df614e6c777d88270417c9ac871
+host=safekiddo.com remote_addr=134.21.127.86 request="POST /v4/apns_token
+HTTP/1.1" status=204 bytes_sent=454 user_agent="Safekiddo/1.18.5 CFNetwork/974.1
+Darwin/18.0.0 (x86_64)" request_length=655 request_time=0.081 upstream_time=0.074
+request_id=9174d3b3712c4fd1e93696457f255439
+host=safekiddo.com remote_addr=99.59.88.166 request="GET /v5/token/lol HTTP/1.1"
+status=200 bytes_sent=910 user_agent="Safekiddo/1.18.5 CFNetwork/975.0.3
+Darwin/18.2.0 (x86_64)" request_length=371 request_time=0.011 upstream_time=0.011
+request_id=d51d8230b753f5c9ac5fe31f4d1279a3
